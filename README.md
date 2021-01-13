@@ -23,6 +23,8 @@ And if you ever get lost, there is always a side bar menu that you can simply ta
 ## Technologies
 * [Flutter](https://flutter.dev/)
 * [Dart](https://dart.dev/)
+* [Google Maps](https://pub.dev/packages/google_maps_flutter) - 1.0.10
+* [JSON](https://www.json.org/json-en.html)
 
 ## Setup
 Clone this repo onto your own system with an android emulator open, and type in the following into the terminal:
