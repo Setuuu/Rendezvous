@@ -10,9 +10,7 @@ Rendezvous is a mobile app for Android systems built using Flutter and Dart, tha
 * [Contact](#contact)
 
 ## Information
-Add more general information about project. What the purpose of the project is? Motivation?
 This project was done during the pandemic with a group of 4 people including myself. We all saw the pandemic as a way for us to improve our coding skills and make our first app that would be extremely useful after these tough times are over. An app that allows its users to do the thing we miss the most, meeting new people! This app allows the user to meet new people at different events and host your own!  
-
 
 ## Technologies
 * [Flutter](https://flutter.dev/)
