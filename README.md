@@ -17,7 +17,11 @@ This project was done during the pandemic with a group of 4 people including mys
 * [Dart](https://dart.dev/)
 
 ## Setup
-Clone this repo onto your own system with an android emulator open, and type in 'flutter run' in the terminal!
+Clone this repo onto your own system with an android emulator open, and type in the following into the terminal:
+
+```
+flutter run
+```
 
 ## Features
 List of features ready:
