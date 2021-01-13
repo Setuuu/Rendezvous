@@ -35,7 +35,7 @@ Project is: _finished_
 
 ## Contact
 Created by:
-[Setu Patel](https://github.com/Setuuu)
-[Tirth Patel](https://github.com/TirthPOnTechU)
-[Deepan Patel](https://github.com/deepan-patel)
-[Tharuni Iranjan](https://github.com/TharuniI)
+* [Setu Patel](https://github.com/Setuuu)
+* [Tirth Patel](https://github.com/TirthPOnTechU)
+* [Deepan Patel](https://github.com/deepan-patel)
+* [Tharuni Iranjan](https://github.com/TharuniI)
